@@ -1,1 +1,1 @@
-# counter
+# Simple counter project
